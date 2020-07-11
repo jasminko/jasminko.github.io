@@ -4,34 +4,20 @@ Jasminko Šarac (rođen 15. maja 1961) bosanskohercegovački je pisac. Studij so
 
 ## Književna dijela
 
+Godine 2001. u izdanju izdavačke kuće DID Jasminko Šarac objavljuje svoje prvo djelo Noć mrtvih. U januaru 2004. godine, u izdanju BZK Preporod Stolac, izlazi zbirka poezije Melanholija u plavim daljinama Ferare, potom, u februaru 2005, Kristova nevjesta, njegovo sljedeće nadahnuće, također u izdanju BZK Preporod Stolac. Slijede Ljubičica Kazablanke i Svijetlost Betlehema 2006. godine, zatim Bošnjak 2007, Pero i skrivenost[1] i Put u Magdalu 2008, Kapije čistih 2009, Tajna svetog imena i Keopsova poruka 2010, Fakir 2011, Kalki Avatar i Imhotepov nestanak 2012, Provincijalac 2013,[2] Hramovi mudrosti i Stolačka bohemija 2014,[3] Nuhova lađa 2015,[4] te jedan naučni rad Ljubav i put 2016. godine. Trenutno piše unutarnju hermeneutiku Kur’ana časnog.
+
+## Preuzmite knjige
+
+Naziv | Link
+------------ | -------------
+Noć mrtvih | [Download](https://jasminko.github.io/knjige/betlehema.pdf)
+Melanholija u plavim daljinama Ferare | [Download](https://jasminko.github.io/knjige/melahonija.pdf)
+Kristova nevjesta | [Download](https://jasminko.github.io/knjige/kristova-nevjesta.pdf)
+Ljubičica Kazablanke | [Download](https://jasminko.github.io/knjige/ljubicica.pdf)
+x | [Download](https://jasminko.github.io/knjige/)
+x | [Download](https://jasminko.github.io/knjige/)
+x | [Download](https://jasminko.github.io/knjige/)
+x | [Download](https://jasminko.github.io/knjige/)
+x | [Download](https://jasminko.github.io/knjige/)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasminko/jasminko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
