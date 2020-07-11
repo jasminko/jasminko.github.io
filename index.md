@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Jasminko Šarac
 
-You can use the [editor on GitHub](https://github.com/jasminko/jasminko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Jasminko Šarac (rođen 15. maja 1961) bosanskohercegovački je pisac. Studij sociologije završio je na Fakultetu političkih nauka u Sarajevu. Radio je u industriji konfekcije Stolac (INKOS). Za vrijeme rata u Bosni i Hercegovini (1992–1995) proveo je devet mjeseci u logorima tokom rata
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Književna dijela
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
