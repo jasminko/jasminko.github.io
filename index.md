@@ -42,3 +42,14 @@ NARDŽIS HATUN - Majka Imama Mehdija  | [Download](https://jasminko.github.io/kn
 
 <iframe frameborder="0" height="500px" src="https://drive.google.com/embeddedfolderview?id=10n1pSev3GnRYpJhjO_CM3tkhAPzB5mIy#list" width="100%"></iframe>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175515772-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175515772-1');
+</script>
+
+
