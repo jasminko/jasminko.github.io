@@ -37,6 +37,7 @@ Ljubav i put | [Download](https://jasminko.github.io/knjige/ljubav-i-put.pdf)
 NARDŽIS HATUN - Majka Imama Mehdija  | [Download](https://jasminko.github.io/knjige/majka-imama.docx)
 BEDUIN ANTE PORTAS | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/BEDUIN%20ANTE%20PORTAS.pdf)
 Bijela Smrt | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Bijela%20Smrt.pdf)
+MARIJINO KRŠTENJE | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/MARIJINO%20KR%C5%A0TENJE.pdf)
 
 ## Google Drive 
 
