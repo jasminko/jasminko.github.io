@@ -35,6 +35,8 @@ Ljubav i put | [Download](https://jasminko.github.io/knjige/ljubav-i-put.pdf)
 Šejh Muhamed hadži Mejli Baba 1 | [Download](https://jasminko.github.io/knjige/mejli-baba1.pdf)
 Šejh Muhamed hadži Mejli Baba 2 | [Download](https://jasminko.github.io/knjige/mejli-baba2.docx)
 NARDŽIS HATUN - Majka Imama Mehdija  | [Download](https://jasminko.github.io/knjige/majka-imama.docx)
+BEDUIN ANTE PORTAS | [Download](https://github.com/jasminko/jasminko.github.io/knjige/BEDUIN%20ANTE%20PORTAS.pdf)
+Bijela Smrt | [Download](https://github.com/jasminko/jasminko.github.io/knjige/Bijela%20Smrt.pdf)
 
 ## Google Drive 
 
