@@ -38,6 +38,8 @@ NARDŽIS HATUN - Majka Imama Mehdija  | [Download](https://jasminko.github.io/kn
 BEDUIN ANTE PORTAS | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/BEDUIN%20ANTE%20PORTAS.pdf)
 Bijela Smrt | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Bijela%20Smrt.pdf)
 MARIJINO KRŠTENJE | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/MARIJINO%20KR%C5%A0TENJE.pdf)
+Balija | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Balija%20(Jasminko%20%C5%A0arac).pdf)
+Put u Šambalu | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Put%20u%20%C5%A0ambalu%20(Jasminko%20%C5%A0arac).pdf)
 
 ## Google Drive 
 
