@@ -22,7 +22,7 @@ Bošnjak | x
 Pero i skrivenost | [Download](https://jasminko.github.io/knjige/pero-i-skrivenost.doc)
 Put u Magdalu | [Download](https://jasminko.github.io/knjige/put-u-magdalu.doc)
 Kapije čistih(prvo izdanje) | [Download](https://jasminko.github.io/knjige/kapije.doc)
-Kapije Čistih I (dopunjeno izdanje) | [Download](https://github.com/jasminko/jasminko.github.io/blob/master/knjige/Kapije%20%C4%8Cistih%20I%20(Jasminko%20%C5%A0arac)%5Bdopunjeno%20izdanje%5D.pdf) 
+Kapije Čistih I (dopunjeno izdanje) | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Kapije%20%C4%8Cistih%20I%20(Jasminko%20%C5%A0arac)%5Bdopunjeno%20izdanje%5D.pdf) 
 Kapije Čistih II (dopunjeno izdanje) | [Download](https://drive.google.com/file/d/1wyBXSavGMDtmYLF4HYkCxmanhZyKp_Sw/view?usp=sharing)
 Kapije Čistih II (dopunjeno izdanje - link2) | [Download](https://www.scribd.com/document/546922493/Kapije-%C4%8Cistih-II-Jasminko-%C5%A0arac-Dopunjeno-Izdanje)
 Kapije Čistih III (Jasminko Šarac - dopunjeno izdanje) | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Kapije%20%C4%8Cistih%20III%20(Jasminko%20%C5%A0arac)%5Bdopunjeno%20izdanje%5D.pdf)
