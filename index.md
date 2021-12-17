@@ -44,6 +44,8 @@ Bijela Smrt | [Download](https://github.com/jasminko/jasminko.github.io/raw/mast
 MARIJINO KRŠTENJE | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/MARIJINO%20KR%C5%A0TENJE.pdf)
 Balija | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Balija%20(Jasminko%20%C5%A0arac).pdf)
 Put u Šambalu | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Put%20u%20%C5%A0ambalu%20(Jasminko%20%C5%A0arac).pdf)
+Nikad poslano | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Nikad%20poslano%20(Jasminko%20%C5%A0arac)%20jasminko.github.com.pdf)
+Zlatna Medalja | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Zlatna%20Medalja%20(Jasminko%20%C5%A0arac)%20jasminko.github.com.pdf)
 
 ## Google Drive 
 
