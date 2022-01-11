@@ -15,6 +15,7 @@ Naziv | Link
 ------------ | -------------
 Noć mrtvih | [Download](https://jasminko.github.io/knjige/betlehema.pdf)
 Melanholija u plavim daljinama Ferare | [Download](https://jasminko.github.io/knjige/melahonija.pdf)
+Kristova nevjesta [dopunjeno izdanje] | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Kristova%20nevjesta%20%5Bdopunjeno%20izdanje%5D.pdf)
 Kristova nevjesta | [Download](https://jasminko.github.io/knjige/kristova-nevjesta.pdf)
 Ljubičica Kazablanke | [Download](https://jasminko.github.io/knjige/ljubicica.pdf)
 Svijetlost Betlehema | [Download](https://jasminko.github.io/knjige/betlehema.pdf)
