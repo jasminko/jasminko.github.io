@@ -33,6 +33,7 @@ Tajna svetog imena | [Download](https://jasminko.github.io/knjige/tajne-svetog-i
 Tajna svetog imena [Dupunjeno izdanje] | [Download](https://www.scribd.com/document/551637032/Tajna-Svetog-Imena-Dopunjeno-Izdanje-Jasminko-%C5%A0arac-https-jasminko-github-io) 
 Keopsova poruka | [Download](https://jasminko.github.io/knjige/keopsova-poruka.doc)
 Keopsova poruka [Dopunjeno izdanje] | [Download](https://www.scribd.com/document/551636524/KEOPSOVA-PORUKA-Dopunjeno-Izdanje-Jasminko-%C5%A0arac-https-jasminko-github-io)
+Fakir - dopunjeno izdanje | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Fakir%20ispravljeno%20i%20dopunjeno%20izdanje.pdf)
 Fakir | [Download](https://jasminko.github.io/knjige/fakir.pdf)
 Kalki Avatar | [Download](https://jasminko.github.io/knjige/kalki-avatar.pdf )
 Imhotepov nestanak | [Download](https://jasminko.github.io/knjige/imhotepov-nestanak.pdf )
