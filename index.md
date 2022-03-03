@@ -52,6 +52,7 @@ Balija | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/kn
 Put u Šambalu | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Put%20u%20%C5%A0ambalu%20(Jasminko%20%C5%A0arac).pdf)
 Nikad poslano | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Nikad%20poslano%20(Jasminko%20%C5%A0arac)%20jasminko.github.com.pdf)
 Zlatna Medalja | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Zlatna%20Medalja%20(Jasminko%20%C5%A0arac)%20jasminko.github.com.pdf)
+Najgore Vrijeme (Sejh Mustafa Zujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Najgore%20Vrijeme%20(%C5%A0ejh%20Mustafa%20%C5%BDujo).pdf)
 
 ## Google Drive 
 
