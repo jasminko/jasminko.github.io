@@ -53,6 +53,7 @@ Put u Šambalu | [Download](https://github.com/jasminko/jasminko.github.io/raw/m
 Nikad poslano | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Nikad%20poslano%20(Jasminko%20%C5%A0arac)%20jasminko.github.com.pdf)
 Zlatna Medalja | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Zlatna%20Medalja%20(Jasminko%20%C5%A0arac)%20jasminko.github.com.pdf)
 Najgore Vrijeme (Sejh Mustafa Zujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Najgore%20Vrijeme%20(%C5%A0ejh%20Mustafa%20%C5%BDujo).pdf)
+Mistično Vino (Šejh Mustafa Žujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Misti%C4%8Dno%20Vino.pdf)
 
 ## Google Drive 
 
