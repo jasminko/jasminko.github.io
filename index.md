@@ -55,6 +55,7 @@ Zlatna Medalja | [Download](https://github.com/jasminko/jasminko.github.io/raw/m
 Najgore Vrijeme (Sejh Mustafa Zujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Najgore%20Vrijeme%20(%C5%A0ejh%20Mustafa%20%C5%BDujo).pdf)
 Mistično Vino (Šejh Mustafa Žujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Misti%C4%8Dno%20Vino.pdf)
 Fenjeri u praznom mezaru (Šejh Mustafa Žujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Fenjeri%20u%20praznom%20mezaru%20(%C5%A1ejh%20Mustafa%20%C5%BDujo)%20-%20jasminko.github.io%20.pdf)
+Šejtanska sofra (šejh Mustafa Žujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/%C5%A0ejtanska%20Sofra%20(%C5%A1ejh%20Mustafa%20%C5%BDujo)%20-%20jasminko.github.io.pdf)
 
 ## Google Drive 
 
