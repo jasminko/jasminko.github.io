@@ -60,6 +60,7 @@ Fatimino potomstvo (Šejh Mustafa Žujo) | [Download](https://raw.githubusercont
 Voda i rešeto (Šejh Mustafa Žujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Voda%20i%20Re%C5%A1eto%20(%C5%A0ejh%20Mustafa%20%C5%BDujo)%20-%20Jasminko%20%C5%A0arac%20-%20%5Bjasminko.github.io%5D.pdf)
 Džamijski nestanak (Šejh Mustafa Žujo) | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/D%C5%BEamijski%20Nestanak%20(%C5%A0ejh%20Mustafa%20%C5%BDujo)%20-%20Jasminko%20%C5%A0arac%20-%20jasminko.github.io.pdf)
 Marina rakija [Šejh Mustafa Žujo] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Marina%20Rakija%20%5B%C5%A0ejh%20Mustafa%20%C5%BDujo%5D%20-%20Jasminko%20%C5%A0arac%20-%20%5B%20jasminko.github.io%20%5D.pdf)
+Vitez Svjetlosti | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Vitez%20u%20Svjetosti%20%5B%20%C5%A0ejh%20Murteza%20%5D%20-%20Jasminko%20%C5%A0arac%20%5B%20jasminko.github.io%20%5D.pdf)
 
 ## Google Drive 
 
