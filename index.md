@@ -65,6 +65,7 @@ Prelazak preko rijeke (Šejh Mustafa Žujo)  | [Download](https://raw.githubuser
 Nišan [Šejh Mustafa Žujo] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Ni%C5%A1an%20%5B%20%C5%A0ejh%20Mustafa%20%C5%BDujo%20%5D%20-%20Jasminko%20%C5%A0arac%20-%20%5B%20jasminko.github.io%20%5D.pdf)
 Fijaker je stao [ Šejh Mustafa Žujo ] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Fijaker%20je%20stao%20%5B%20%C5%A0ejh%20Mustafa%20%C5%BDujo%5D%20-%20Jasminko%20%C5%A0arac%20-%20%5B%20jasminko.github.io%20%5D.pdf)
 Mirisi duše [ Šejh Mustafa Žujo ] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Mirisi%20Du%C5%A1e%20-%20%5B%20%C5%A0ejh%20Mustafa%20%C5%BDujo%20%5D%20-%20Jasminko%20%C5%A0arac%20%20-%20%5B%20jasminko.github.io%20%5D.pdf)
+Ponovni dolazak [Šejh Mustafa Žujo] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Ponovni%20dolazak%20%5B%C5%A0ejh%20Mustafa%20%C5%BDujo%5D%20-%20Jasminko%20%C5%A0arac%20-%20jasminko.github.io.pdf)
 
 ## Google Drive 
 
