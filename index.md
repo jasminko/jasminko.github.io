@@ -69,6 +69,7 @@ Ponovni dolazak [Šejh Mustafa Žujo] | [Download](https://raw.githubusercontent
 Stavljeno u žbunje [Šejh Mustafa Žujo] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Stavljeno%20u%20%C5%BEbunje%20%5B%C5%A0ejh%20Mustafa%20%C5%BDujo%5D%20-%20Jasminko%20%C5%A0arac%20-%20jasminko.github.io.pdf)
 Dva Goluba [Šejh Mustafa Žujo]  | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Dva%20Goluba%20%5B%C5%A0ejh%20Mustafa%20%C5%BDujo%5D%20-%20Jasminko%20%C5%A0arac%20-%20jasminko.github.io.pdf)
 Pokvašen [Šejh Mustafa Žujo] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Pokva%C5%A1en%20%5B%C5%A0ejh%20Mustafa%20%C5%BDujo%5D%20-%20Jasminko%20%C5%A0arac%20-%20jasminko.github.io.pdf)
+Skriveni Šejh [Šejh Mustafa Žujo] | [Download](https://github.com/jasminko/jasminko.github.io/blob/master/knjige/Skriveni%20Sejh_Jasminko%20Sarac%20-%20jasminko.github.io.pdf)
 
 ## Google Drive 
 
