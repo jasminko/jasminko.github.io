@@ -78,14 +78,17 @@ Skriveni Šejh [Šejh Mustafa Žujo] | [Download](https://jasminko.github.io/knj
 <iframe frameborder="0" height="500px" src="https://drive.google.com/embeddedfolderview?id=10n1pSev3GnRYpJhjO_CM3tkhAPzB5mIy#list" width="100%"></iframe>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175515772-1"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DK0RJHHB3Y"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-175515772-1');
+  gtag('config', 'G-DK0RJHHB3Y');
 </script>
+
 
 
 
