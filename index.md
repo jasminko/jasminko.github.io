@@ -15,13 +15,13 @@ Naziv | Link
 ------------ | -------------
 Noć mrtvih | [Download](https://jasminko.github.io/knjige/noc-mrtvih.pdf)
 Melanholija u plavim daljinama Ferare | [Download](https://jasminko.github.io/knjige/melahonija.pdf)
-Kristova nevjesta [dopunjeno izdanje] | [Download](https://github.com/jasminko/jasminko.github.io/raw/master/knjige/Kristova%20nevjesta%20%5Bdopunjeno%20izdanje%5D.pdf)
+Kristova nevjesta [dopunjeno izdanje] | [Download](https://jasminko.github.io/knjige/Kristova%20nevjesta%20[dopunjeno%20izdanje].pdf)
 Kristova nevjesta | [Download](https://jasminko.github.io/knjige/kristova-nevjesta.pdf)
-Ljubičica Kazablanke[dopunjeno izdanje] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Ljubi%C4%8Dica%20Kazablanke%5Bdopunjeno%20izdanje%5D.pdf)
+Ljubičica Kazablanke[dopunjeno izdanje] | [Download](https://jasminko.github.io/knjige/Ljubičica%20Kazablanke[dopunjeno%20izdanje].pdf)
 Ljubičica Kazablanke | [Download](https://jasminko.github.io/knjige/ljubicica.pdf)
 Svijetlost Betlehema | [Download](https://jasminko.github.io/knjige/betlehema.pdf)
 Bošnjak | x
-Pero i skrivenost[dopunjeno izdanje] | [Download](https://raw.githubusercontent.com/jasminko/jasminko.github.io/master/knjige/Pero%20i%20skrivenost%5Bdopunjeno%20izdanje%5D.pdf)
+Pero i skrivenost[dopunjeno izdanje] | [Download](https://jasminko.github.io/knjige/Pero%20i%20skrivenost[dopunjeno%20izdanje].pdf)
 Pero i skrivenost | [Download](https://jasminko.github.io/knjige/pero-i-skrivenost.doc)
 Put u Magdalu | [Download](https://jasminko.github.io/knjige/put-u-magdalu.doc)
 Kapije čistih(prvo izdanje) | [Download](https://jasminko.github.io/knjige/kapije.doc)
